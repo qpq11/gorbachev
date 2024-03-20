@@ -1,0 +1,1 @@
+git merge <...>- merges the <...> branch with the one you're currently in
